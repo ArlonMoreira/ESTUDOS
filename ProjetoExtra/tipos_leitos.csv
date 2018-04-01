@@ -1,0 +1,66 @@
+cod_espec;espec;cod_tp_leito;tp_leito
+01;01 Buco Maxilo Facial;1;1-Cirúrgico            
+02;02 Cardiologia;1;1-Cirúrgico            
+03;03 Cirurgia Geral;1;1-Cirúrgico            
+04;04 Endocrinologia;1;1-Cirúrgico            
+05;05 Gastroenterologia;1;1-Cirúrgico            
+06;06 Ginecologia;1;1-Cirúrgico            
+08;08 Nefrologiaurologia;1;1-Cirúrgico            
+09;09 Neurocirurgia;1;1-Cirúrgico            
+11;11 Oftalmologia;1;1-Cirúrgico            
+12;12 Oncologia;1;1-Cirúrgico            
+13;13 Ortopediatraumatologia;1;1-Cirúrgico            
+14;14 Otorrinolaringologia;1;1-Cirúrgico            
+15;15 Plastica;1;1-Cirúrgico            
+16;16 Toraxica;1;1-Cirúrgico            
+67;67 Transplante;1;1-Cirúrgico            
+90;90 Queimado Adulto;1;1-Cirúrgico            
+91;91 Queimado Pediatrico;1;1-Cirúrgico            
+31;31 Aids;2;2-Clínico              
+32;32 Cardiologia;2;2-Clínico              
+33;33 Clinica Geral;2;2-Clínico              
+35;35 Dermatologia;2;2-Clínico              
+36;36 Geriatria;2;2-Clínico              
+37;37 Hansenologia;2;2-Clínico              
+38;38 Hematologia;2;2-Clínico              
+40;40 Nefrourologia;2;2-Clínico              
+41;41 Neonatologia;2;2-Clínico              
+42;42 Neurologia;2;2-Clínico              
+44;44 Oncologia;2;2-Clínico              
+46;46 Pneumologia;2;2-Clínico              
+87;87 Saude Mental;2;2-Clínico              
+88;88 Queimado Adulto;2;2-Clínico              
+89;89 Queimado Pediatrico;2;2-Clínico              
+65;65 Unidade Intermediaria Neonatal;3;3-Complementar         
+66;66 Unidade Isolamento;3;3-Complementar         
+74;74 UTI Adulto - Tipo I;3;3-Complementar         
+75;75 UTI Adulto - Tipo II;3;3-Complementar         
+76;76 UTI Adulto - Tipo III;3;3-Complementar         
+77;77 UTI Pediatrica - Tipo I;3;3-Complementar         
+78;78 UTI Pediatrica - Tipo II;3;3-Complementar         
+79;79 UTI Pediatrica - Tipo III;3;3-Complementar         
+80;80 UTI Neonatal - Tipo I;3;3-Complementar         
+81;81 UTI Neonatal - Tipo II;3;3-Complementar         
+82;82 UTI Neonatal - Tipo III;3;3-Complementar         
+83;83 UTI De Queimados;3;3-Complementar         
+85;85 UTI Coronariana Tipo II - UCO Tipo II;3;3-Complementar         
+86;86 UTI Coronariana Tipo III - UCO Tipo III;3;3-Complementar         
+92;92 Unidade de Cuidados Intermed Neonatal Convencio;3;3-Complementar         
+93;93 Unidade de Cuidados Intermed Neonatal Canguru;3;3-Complementar         
+94;94 Unidade de Cuidados Intermediarios Pediatrico;3;3-Complementar         
+95;95 Unidade de Cuidados Intermed  Adulto;3;3-Complementar         
+10;10 Obstetricia Cirurgica;4;4-Obstétrico           
+43;43 Obstetricia Clinica;4;4-Obstétrico           
+45;45 Pediatria Clinica;5;5-Pediátrico           
+68;68 Pediatria Cirurgica;5;5-Pediátrico           
+34;34 Cronicos;6;6-Outras Especialidades
+47;47 Psiquiatria;6;6-Outras Especialidades
+48;48 Reabilitacao;6;6-Outras Especialidades
+49;49 Pneumologia Sanitaria;6;6-Outras Especialidades
+84;84 Acolhimento Noturno;6;6-Outras Especialidades
+07;07 Cirurgico/Diagnostico/Terapeutico;7;7-Hospital/DIA         
+69;69 Aids;7;7-Hospital/DIA         
+70;70 Fibrose Cistica;7;7-Hospital/DIA         
+71;71 Intercorrencia Pos-Transplante;7;7-Hospital/DIA         
+72;72 Geriatria;7;7-Hospital/DIA         
+73;73 Saude Mental;7;7-Hospital/DIA         
